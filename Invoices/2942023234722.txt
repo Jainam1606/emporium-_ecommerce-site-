@@ -1,0 +1,15 @@
+                                        ELECTROMA
+******************************************************************************************
+Computerandtablets Product(s)
+
+Product Name                            Price
+Frontech Led Monitor                   Rs.17,390
+HP Pavillion                Rs.34,999
+
+Total Computerandtablets Price : Rs.52389
+******************************************************************************************
+
+Total Price(before discount) = Rs.52389
+Coupon Applied : 10% Off upto Rs.25000
+Discount Offered : Rs.5238.900000000001
+Total Price(after discount) = Rs.47150.1

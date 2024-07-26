@@ -1,0 +1,15 @@
+                                        ELECTROMA
+******************************************************************************************
+HomeAppliances Product(s)
+
+Product Name                            Price                         Price
+LG Refrigerator,260L                    Rs.45000                      45,000
+Samsung Washing Machine 8kg             Rs.21500                      21500
+
+Total HomeAppliances Price : Rs.66500
+******************************************************************************************
+
+Total Price(before discount) = Rs.66500
+Coupon Applied : 15% Off upto Rs.100000
+Discount Offered : Rs.9975.0
+Total Price(after discount) = Rs.56525.0

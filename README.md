@@ -1,10 +1,9 @@
 # The Emporium
-Semester 1: Python for Computational Problem Solving Project
+python project using tkinter 
 
 Welcome to my E-commerce application 'The Emporium' where you can purchase various items from five categories that are as follows:
 * Grocery
 * Electronics
-* Sports and Gym Equipment
 * Furniture
 * Appliances
 
